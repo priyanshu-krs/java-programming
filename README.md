@@ -1,2 +1,2 @@
 # java-programming
-Auhtr - Priyanshu kumar singh
+Author - Priyanshu kumar singh
